@@ -7,6 +7,7 @@ from rich.table import Table
 ##############
 ### Global ###
 ##############
+##############
 
 console = Console() # Get a prettier output using rich
 
